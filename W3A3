@@ -1,0 +1,5 @@
+n = int(input("Nhập số đầu tiên:"))
+m = int(input("Nhập số thứ 2:"))
+import math
+a = math.floor(m/n)
+print(a)
